@@ -1,0 +1,29 @@
+Flask==2.1.1
+requests==2.27.1
+pandas==1.4.2
+numpy==1.23.0
+scikit-learn==0.24.2
+matplotlib==3.5.1
+SQLAlchemy==1.4.37
+pytest==7.1.2
+
+Explanation:
+
+Flask==2.1.1: Specifies the Flask web framework version 2.1.1.
+
+requests==2.27.1: Specifies version 2.27.1 of the requests library, which is used for making HTTP requests.
+
+pandas==1.4.2: Specifies version 1.4.2 of the pandas library for data manipulation and analysis.
+
+numpy==1.23.0: Specifies version 1.23.0 of NumPy, which is used for numerical operations.
+
+scikit-learn==0.24.2: Specifies version 0.24.2 of scikit-learn for machine learning algorithms.
+
+matplotlib==3.5.1: Specifies version 3.5.1 of matplotlib for data visualization.
+
+SQLAlchemy==1.4.37: Specifies version 1.4.37 of SQLAlchemy for database interaction.
+
+pytest==7.1.2: Specifies version 7.1.2 of pytest for unit testing.
+
+
+This requirements.txt file can be used to recreate the environment in another machine using the pip install -r requirements.txt command.
