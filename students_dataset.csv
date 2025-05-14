@@ -1,0 +1,17 @@
+Name,Age,Marks,Attendance,Passed
+Alice,20,85,90,Yes
+Bob,21,,80,No
+Charlie,,78,,Yes
+David,22,90,85,Yes
+Eve,20,88,95,No
+Frank,,76,70,Yes
+Grace,23,,88,No
+Hank,21,80,,Yes
+Ivy,24,92,92,Yes
+Jack,,79,85,No
+Kelly,22,,78,Yes
+Leo,23,87,,Yes
+Mona,21,83,80,No
+Nina,,77,89,Yes
+Oscar,25,,91,No
+Paul,22,81,,Yes
